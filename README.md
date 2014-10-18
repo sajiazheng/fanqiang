@@ -16,12 +16,12 @@
         <tr>
             <td>自由门</td>
             <td>2014年10月19日</td>
-            <td><a href="fg742p.rar">fg742p.rar</a></td>
+            <td><a href="https://github.com/XL2014/fanqiang/raw/master/fg742p.rar">fg742p.rar</a></td>
         </tr>    
         <tr>
             <td>无界浏览</td>
             <td>2014年10月19日</td>
-            <td><a href="u1404.rar">u1404.rar</a></td>
+            <td><a href="https://github.com/XL2014/fanqiang/raw/master/u1404.rar">u1404.rar</a></td>
         </tr>    
     </tbody>
 </table>
